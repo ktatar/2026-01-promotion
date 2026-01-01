@@ -5,7 +5,7 @@ math: katex
 paginate: true
 ---
 
-<!-- footer: <small><i style="font-size: 8pt;font-weight:500;color:black">AI in Computational Arts, Music, and Games </small></i> <p> ![width:350](chalmers-gu.png)</p> -->
+<!-- footer: <small><i style="font-size: 8pt;font-weight:500;color:black">Kıvanç Tatar, Ph.D. </small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 <!-- _color: black -->
 
 # Machine Learning and Artificial Intelligence Applied to Computational Arts, Music, and Games
@@ -15,6 +15,8 @@ paginate: true
 - What you conduct research on and the important results you have achieved so far.
 - Which questions you consider important to address in the future and why it is important to answer these questions.
 - The target group for the presentation is the Faculty Appointment Committee and the lecture should be given in a popular science style that is accessible to a broad academic audience.
+
+---
 
 
 
