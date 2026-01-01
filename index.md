@@ -47,13 +47,14 @@ paginate: true
 - Arts and Music are core components of daily life
 - A major shift in all multimedia domains due to AI
 - The global multimedia industry such as music, games, movies etc. is one of the largest:
-  - Music: Estimated at $105 billion in 2024, with expectations to nearly double to $200 billion by 2035 [1],
-  - 
+  - Music: "Estimated at $105 billion in 2024, with expectations to nearly double to $200 billion by 2035" [1],
+  - Video Games: "A $189 billion market in 2025" [2] 
 
 
 <small>[1] this is a smaller text. Great for citations. 
 Global Music Revenues Are Forecast to Double to $200 Billion in 2035. (n.d.). Retrieved January 1, 2026, from https://www.goldmansachs.com/insights/articles/global-music-revenues-are-forecast-to-double-to-200-million-in-2035
 
+[2] Global games market to hit $189 billion in 2025 as growth shifts to console. (2025, September 9). Newzoo. https://newzoo.com/resources/blog/global-games-market-to-hit-189-billion-in-2025
 
 </small>
 
