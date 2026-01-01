@@ -5,7 +5,7 @@ math: katex
 paginate: true
 ---
 
-<!-- footer: <small><i style="font-size: 8pt;font-weight:500;color:black">Kıvanç Tatar, Ph.D. </small></i> <p> ![width:350](chalmers-gu.png)</p> -->
+<!-- footer: <small><i style="font-size: 8pt;font-weight:500;color:black">Kıvanç Tatar, Assistant Professor in Interactive AI </small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 <!-- _color: black -->
 
 # Machine Learning and Artificial Intelligence Applied to Computational Arts, Music, and Games
@@ -18,7 +18,25 @@ paginate: true
 
 ---
 
+## Arts and Music in the Era of Artificial Intelligence
 
+---
+
+### Creative Coding
+
+---
+
+### History: Generative Arts
+
+- Autonomy and Computational Thinking
+- Agency and Interaction
+
+---
+
+### Arts and Music in the Era of Artificial Intelligence
+
+- Highly autonomous tools
+- Increasingly complex interaction
 
 ---
 
