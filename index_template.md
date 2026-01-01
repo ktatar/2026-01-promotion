@@ -8,15 +8,23 @@ paginate: true
 <!-- footer: <small><i style="font-size: 8pt;font-weight:500;color:black">AI in Computational Arts, Music, and Games </small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 <!-- _color: black -->
 
-# Machine Learning and Artificial Intelligence Applied to Computational Arts, Music, and Games
+# Cool title with a Background
+
+![bg opacity:30% ](tra-385.webp)
+
+The code above the title is a local directive:
+
+https://marpit.marp.app/directives?id=local-directives-1
 
 ---
 
-# Research Vision
+# What is TRA 385?
 
+This is a list:
 
-- 
-
+- item 1
+- item 2
+- item 3
 
 ---
 
