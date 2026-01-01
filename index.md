@@ -45,8 +45,8 @@ paginate: true
 ## Why does it matter? 
 
 - Arts and Music are core components of daily life
-- Major shift is now hapenning in all multimedia domains due to AI
-- 
+- A major shift in all multimedia domains due to AI
+- The multimedia industry such as music, games, movies etc. is one of the largest  
 
 ---
 
