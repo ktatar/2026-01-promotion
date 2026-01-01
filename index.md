@@ -49,7 +49,7 @@ paginate: true
 - The global multimedia industry such as music, games, movies etc. is one of the largest:
   - Music: "Estimated at $105 billion in 2024, with expectations to nearly double to $200 billion by 2035" [1],
   - Video Games: "A $189 billion market in 2025" [2], 
-  - Video Streaming: reached over 316 billion U.S. dollars in 2024 [3].
+  - Video Streaming: "In 2024, ...reached over 316 billion U.S. dollars" [3].
 
 
 <small>[1] Goldman Sachs. Global Music Revenues Are Forecast to Double to $200 Billion in 2035. (2025). Retrieved January 1, 2026, from https://www.goldmansachs.com/insights/articles/global-music-revenues-are-forecast-to-double-to-200-million-in-2035
