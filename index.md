@@ -12,11 +12,30 @@ paginate: true
 
 ---
 
+- What you conduct research on and the important results you have achieved so far.
+- Which questions you consider important to address in the future and why it is important to answer these questions.
+- The target group for the presentation is the Faculty Appointment Committee and the lecture should be given in a popular science style that is accessible to a broad academic audience.
+
+
+
+---
+
+# Major Achievement : The Foundation of the Research Group
+
+AICompArts : AI in Computational Arts, Music, and Games
+
+- National recognition of the research group
+- Strong connection to research and teaching strategies of Chalmers
+- Leading international research domain of Musical AI and AI arts. 
+
+---
+
 # Research Vision
 
 
-- 
-
+  - Computational autonomy informed by theory of the application domain
+  - Societal implications of ML and AI as one of the core aspects of technology making
+  - Artistic curiosity as a driving force for innovation
 
 ---
 
