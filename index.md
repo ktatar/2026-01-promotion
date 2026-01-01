@@ -51,12 +51,17 @@ paginate: true
   - Video Games: "A $189 billion market in 2025" [2], 
   - Video Streaming: "In 2024, ...reached over 316 billion U.S. dollars" [3].
 
-
 <small>[1] Goldman Sachs. Global Music Revenues Are Forecast to Double to $200 Billion in 2035. (2025). Retrieved January 1, 2026, from https://www.goldmansachs.com/insights/articles/global-music-revenues-are-forecast-to-double-to-200-million-in-2035
 [2] Buijsman, M. (2025) Global games market to hit $189 billion in 2025 as growth shifts to console. (2025, September 9). Newzoo. https://newzoo.com/resources/blog/global-games-market-to-hit-189-billion-in-2025
 [3] Stoll, J. (2025). Topic: Video streaming worldwide. Statista. Retrieved January 1, 2026, from https://www.statista.com/topics/7527/video-streaming-worldwide/
 
 </small>
+
+---
+
+# Research Achievements
+
+- 
 
 ---
 
@@ -71,7 +76,6 @@ AICompArts : AI in Computational Arts, Music, and Games
 ---
 
 # Research Vision
-
 
   - Computational autonomy informed by theory of the application domain
   - Societal implications of ML and AI as one of the core aspects of technology making
