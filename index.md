@@ -38,6 +38,12 @@ paginate: true
 - Highly autonomous tools
 - Increasingly complex interaction
 
+--- 
+
+## Why does it matter? 
+
+- Arts and Music is one of core components of 
+
 ---
 
 # Major Achievement : The Foundation of the Research Group
