@@ -70,6 +70,7 @@ paginate: true
 ## Technical Contributions
 
 - Interactivity and Affordances in Audio-based Musical AI
+- First steps in founding a new musical AI research direction: Neural Audio Instruments
 - 
 
 ---
