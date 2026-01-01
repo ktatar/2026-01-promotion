@@ -44,7 +44,9 @@ paginate: true
 
 ## Why does it matter? 
 
-- Arts and Music is one of core components of 
+- Arts and Music are core components of daily life
+- Major shift is now hapenning in all multimedia domains due to AI
+- 
 
 ---
 
