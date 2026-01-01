@@ -61,6 +61,15 @@ paginate: true
 
 # Research Achievements
 
+- Technical Contributions
+- National research community building for international impact
+- Contributions to Humanities and Social Sciences
+
+---
+
+## Technical Contributions
+
+- Interactivity and Affordances in Audio-based Musical AI
 - 
 
 ---
