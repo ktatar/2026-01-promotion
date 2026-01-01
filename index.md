@@ -12,7 +12,7 @@ paginate: true
 
 ---
 
-## Overview
+# Overview
 
 - What you conduct research on and the important results you have achieved so far.
 - Which questions you consider important to address in the future and why it is important to answer these questions.
@@ -20,7 +20,7 @@ paginate: true
 
 ---
 
-## Arts and Music in the Era of Artificial Intelligence
+# Arts and Music in the Era of Artificial Intelligence
 
 ---
 
@@ -42,7 +42,7 @@ paginate: true
 
 --- 
 
-## Why does it matter? 
+# Why does it matter? 
 
 - Arts and Music are core components of daily life
 - A major shift in all multimedia domains due to AI
@@ -53,12 +53,8 @@ paginate: true
 
 
 <small>[1] Goldman Sachs. Global Music Revenues Are Forecast to Double to $200 Billion in 2035. (2025). Retrieved January 1, 2026, from https://www.goldmansachs.com/insights/articles/global-music-revenues-are-forecast-to-double-to-200-million-in-2035
-
 [2] Buijsman, M. (2025) Global games market to hit $189 billion in 2025 as growth shifts to console. (2025, September 9). Newzoo. https://newzoo.com/resources/blog/global-games-market-to-hit-189-billion-in-2025
-
 [3] Stoll, J. (2025). Topic: Video streaming worldwide. Statista. Retrieved January 1, 2026, from https://www.statista.com/topics/7527/video-streaming-worldwide/
-
-
 
 </small>
 
