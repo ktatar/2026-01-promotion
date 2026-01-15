@@ -95,6 +95,9 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 ---
 
+# What are future directions? 
+
+---
 - Laying the foundations for future research directions:
   - Neural Audio Instruments
   - Neural Acoustics
