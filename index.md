@@ -94,6 +94,8 @@ AICompArts : AI in Computational Arts, Music, and Games
 - National research community building for international impact
 - Contributions to Humanities and Social Sciences
 
+---
+
 # This is a table 
 
 | Activities  |  |  | | |
