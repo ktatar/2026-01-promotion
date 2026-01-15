@@ -59,14 +59,6 @@ paginate: true
 
 ---
 
-## Technical Contributions
-
-- Interactivity and Affordances in Audio-based Musical AI
-- First steps in founding a new musical AI research direction: Neural Audio Instruments
-- 
-
----
-
 # Major Achievement : The Foundation of the Research Group
 
 AICompArts : AI in Computational Arts, Music, and Games
@@ -80,8 +72,8 @@ AICompArts : AI in Computational Arts, Music, and Games
 # Research Vision
 
   - Computational autonomy informed by theory of the application domain
-  - Societal implications of ML and AI as one of the core aspects of technology making
-  - Artistic curiosity as a driving force for innovation
+  - Societal implications of ML and AI as one of the core aspects of technology making processes
+  - Artistic curiosity as a driving force for research and innovation
 
 ---
 
@@ -93,6 +85,10 @@ AICompArts : AI in Computational Arts, Music, and Games
   - SSH research methods for analyzing societal impacts of AI in arts and music
 - National research community building for international impact
 - Contributions to Humanities and Social Sciences
+
+---
+
+
 
 ---
 
