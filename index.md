@@ -77,8 +77,6 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 ---
 
-# Major Research Achievements - Bridging AI Technology and Engineering Research with Humanities and Social Sciences
-
 - Human-AI interactions in artistic contexts
   - 
 - Focusing on Process rather than Gestalt in AI
@@ -88,6 +86,15 @@ AICompArts : AI in Computational Arts, Music, and Games
 - AI Ethics towards informing future legislations
 
 ---
+
+# Major Research Achievements - Bridging AI Technology and Engineering Research with Humanities and Social Sciences
+
+---
+
+# Why do we need a bridge between AI technology making and Humanities?
+
+---
+
 - Laying the foundations for future research directions:
   - Neural Audio Instruments
   - Neural Acoustics
