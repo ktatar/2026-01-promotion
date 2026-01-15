@@ -79,6 +79,11 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 # Major Research Achievements
 
+
+
+
+
+---
 - Laying the foundations for future research directions:
   - Neural Audio Instruments
   - Neural Acoustics
