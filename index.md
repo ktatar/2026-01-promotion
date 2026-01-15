@@ -77,12 +77,15 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 ---
 
-# Major Research Achievements
+# Major Research Achievements - Bridging AI Technology and Engineering Research with Humanities and Social Sciences
 
-
-- 
+- Human-AI interactions in artistic contexts
+  - 
+- Focusing on Process rather than Gestalt in AI
+  - Applying research through design processes to AI approaches
 - Interdisciplinary research methods
   - Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI
+- AI Ethics towards informing future legislations
 
 ---
 - Laying the foundations for future research directions:
