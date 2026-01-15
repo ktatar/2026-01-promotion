@@ -99,7 +99,10 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 ---
 
-- Systematic methods to analyze cultural dimensions encoded  
+- Proposing mixed research methods to analyze cultural dimensions encoded within AI models
+  - Quantitative metrics to analyze entanglements between culturally relevant dimensions
+  - Qualitative methods to critically engage with the findings of quantitative metrics
+-  
 
 - Laying the foundations for future research directions:
   - Neural Audio Instruments
