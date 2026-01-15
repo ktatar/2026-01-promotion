@@ -81,7 +81,8 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 
 
-
+- Research methodology with interdisciplinarity
+  - Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI
 
 ---
 - Laying the foundations for future research directions:
