@@ -59,14 +59,6 @@ paginate: true
 
 ---
 
-# Research Achievements
-
-- Technical Contributions
-- National research community building for international impact
-- Contributions to Humanities and Social Sciences
-
----
-
 ## Technical Contributions
 
 - Interactivity and Affordances in Audio-based Musical AI
@@ -92,6 +84,15 @@ AICompArts : AI in Computational Arts, Music, and Games
   - Artistic curiosity as a driving force for innovation
 
 ---
+
+# Major Research Achievements
+
+- Laying the foundations for future research directions:
+  - Neural Audio Instruments
+  - Neural Acoustics
+  - SSH research methods for analyzing societal impacts of AI in arts and music
+- National research community building for international impact
+- Contributions to Humanities and Social Sciences
 
 # This is a table 
 
