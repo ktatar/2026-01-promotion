@@ -80,8 +80,8 @@ AICompArts : AI in Computational Arts, Music, and Games
 # Major Research Achievements
 
 
-
-- Research methodology with interdisciplinarity
+- 
+- Interdisciplinary research methods
   - Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI
 
 ---
