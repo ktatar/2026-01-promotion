@@ -98,6 +98,9 @@ AICompArts : AI in Computational Arts, Music, and Games
 # What are future directions? 
 
 ---
+
+- Systematic methods to analyze cultural dimensions encoded  
+
 - Laying the foundations for future research directions:
   - Neural Audio Instruments
   - Neural Acoustics
