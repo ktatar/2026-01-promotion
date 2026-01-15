@@ -102,18 +102,16 @@ AICompArts : AI in Computational Arts, Music, and Games
 - Proposing mixed research methods to analyze cultural dimensions encoded within AI models
   - Quantitative metrics to analyze entanglements between culturally relevant dimensions
   - Qualitative methods to critically engage with the findings of quantitative metrics
--  
-
-- Laying the foundations for future research directions:
+- Laying the foundations for future engineering directions in musical AI:
   - Neural Audio Instruments
   - Neural Acoustics
-  - SSH research methods for analyzing societal impacts of AI in arts and music
-- National research community building for international impact
-- Contributions to Humanities and Social Sciences
 
 ---
 
+# Research Community Building
 
+- National research community building for international impact: WASP-HS cluster and the VR Research Environment in SSH
+- Leading musical AI and AI arts research fields internationally
 
 ---
 
