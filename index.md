@@ -77,7 +77,7 @@ paginate: true
 ---
 
 - Human-AI interactions in artistic contexts
-  - 
+  - How to utilize vast AI search spaces in content generation (ie sound, music, image etc.) ()
 - Focusing on Process rather than Gestalt in AI
   - Applying research through design processes to AI approaches
 - Interdisciplinary research methods
