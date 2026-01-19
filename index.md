@@ -42,16 +42,11 @@ paginate: true
 
 </div>
 
-
-
-
-
 ---
 
 ### History: Generative Arts
 
-
-
+![bg left](fuse.jpg)
 - Autonomy and Computational Thinking
 - Agency and Interaction
 
