@@ -46,7 +46,7 @@ paginate: true
 
 ### History: Generative Arts
 
-![bg left](fuse.jpg)
+![bg left](https://i0.wp.com/aljazaribook.com/wp-content/uploads/2019/08/Category-I-chapter-2-fig-34-p43_1315_2.jpg)
 - Autonomy and Computational Thinking
 - Agency and Interaction
 
