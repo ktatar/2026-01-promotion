@@ -88,7 +88,7 @@ paginate: true
 
 ---
 
-# Major Achievement : The Foundation of the Research Group
+# Major Achievement: The Foundation of the Research Group
 
 AICompArts : AI in Computational Arts, Music, and Games
 
