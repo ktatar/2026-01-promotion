@@ -77,9 +77,9 @@ paginate: true
 ---
 
 - Human-AI interactions in artistic contexts
-  - How to utilize vast AI search spaces in content generation (ie sound, music, image etc.) ()
-- Focusing on Process rather than Gestalt in AI
-  - Applying research through design processes to AI approaches
+  - How to utilize vast AI search spaces in content generation (ie sound, music, image etc.) (C14)
+  - Focusing on Process rather than Gestalt in AI (C18)
+  - Applying research through design processes to AI approaches (C18)
 - Interdisciplinary research methods
   - Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI
 - AI Ethics towards informing future legislations
