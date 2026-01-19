@@ -94,7 +94,9 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 <!-- - National recognition of the research group -->
 - Strong connection to research and teaching strategies of Chalmers (TRA385)
-- Leading international research domain of Musical AI and AI arts.
+- Leading international research domain of Musical AI and AI arts
+- AI innovation with societal considerations at the center
+- Bridging STEM with Humanities and Arts
 
 ---
 
