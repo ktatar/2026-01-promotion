@@ -23,21 +23,34 @@ paginate: true
 # Arts and Music in the Era of Artificial Intelligence
 
 ---
+<!-- _class: columns -->
 
-### Creative Coding
+<div>
 
-Creative coding is a type of computer programming activity where the end result is a creative outcome.
+### Creative Coding,
 
-Creative Coding does not necessarily focus on solving a problem or functionality.
+- is a type of computer programming activity where the end result is a creative outcome.
 
-Rather, it is an exploration of aesthetics, experiences, forms, creative affordances and agency.
+- does not necessarily focus on solving a problem or functionality.
+
+- is an exploration of aesthetics, experiences, forms, creative affordances and agency.
+
+</div>
+<div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rfq82eKE-34?si=4RNR3PL3n6rWi0Cs&amp;start=1945" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+
+
 
 
 ---
 
 ### History: Generative Arts
+
+
 
 - Autonomy and Computational Thinking
 - Agency and Interaction
