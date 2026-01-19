@@ -138,7 +138,7 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 ---
 
-# Major Research Achievement - Bridging AI Technology and Engineering Research with Humanities and Social Sciences
+# Over-arching Goal - Bridging AI Technology and Engineering Research with Humanities and Social Sciences
 
 ---
 
