@@ -88,12 +88,6 @@ paginate: true
 
 ---
 
-- How do we inform AI technology development with considerations in societal implications?
-- What are new artistic affordances of novel AI architectures? 
-- How can we bring back to "the body" to digital AI architectures?
-
----
-
 # Major Achievement : The Foundation of the Research Group
 
 AICompArts : AI in Computational Arts, Music, and Games
@@ -110,7 +104,12 @@ AICompArts : AI in Computational Arts, Music, and Games
   - Societal implications of ML and AI as one of the core aspects of technology making processes
   - Artistic curiosity as a driving force for research and innovation
 
+---
 
+- How do we inform AI technology development with considerations in societal implications?
+- What are new artistic affordances of novel AI architectures? 
+- How can we bring back to "the body" to digital AI architectures?
+- 
 ---
 
 # Specifically, what are future directions? 
