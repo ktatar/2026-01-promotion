@@ -81,8 +81,10 @@ paginate: true
   - Focusing on process of AI technology development rather than AI generated products (J8, C18)
   - Applying research through design processes to AI approaches (C18)
 - Interdisciplinary research methods
-  - Bridging technology facts to societal matters (J8, J7, )
-- AI Ethics towards informing future legislations
+  - Bridging technology facts to societal matters (J8, J7, C16)
+- AI Ethics towards informing future legislations (J7, C16)
+  - Voice AI and future legislations (C16)
+  - Future of artistic practices in the era of AI (J7)
 
 ---
 
