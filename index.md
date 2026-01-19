@@ -63,8 +63,8 @@ paginate: true
 
 AICompArts : AI in Computational Arts, Music, and Games
 
-- National recognition of the research group
-- Strong connection to research and teaching strategies of Chalmers
+<!-- - National recognition of the research group -->
+- Strong connection to research and teaching strategies of Chalmers (TRA385)
 - Leading international research domain of Musical AI and AI arts. 
 
 ---
@@ -87,29 +87,45 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 ---
 
-# Major Research Achievements - Bridging AI Technology and Engineering Research with Humanities and Social Sciences
+- How do we inform AI technology development with considerations in societal implications?
+- What are new artistic affordances of novel AI architectures? 
+- How can we bring back to "the body" to digital AI architectures?
 
 ---
 
-# Why do we need a bridge between AI technology making and Humanities?
-
----
-
-# What are future directions? 
-
----
+# Specifically, what are future directions? 
 
 - Proposing mixed research methods to analyze cultural dimensions encoded within AI models
   - Quantitative metrics to analyze entanglements between culturally relevant dimensions
   - Qualitative methods to critically engage with the findings of quantitative metrics
-- Laying the foundations for future engineering directions in musical AI:
-  - Neural Audio Instruments
-  - Neural Acoustics
+- Laying the foundations for future engineering directions in Musical AI:
+  - Neural Audio Instruments: a new category of musical instruments
+  - Neural Acoustics: towards real-time acoustics simulations for sound synthesis
+- *Anything but text!*
+  - Utilizing movement computing in human-AI interaction
+
+---
+
+# Why are these directions important? 
+
+- Proposing mixed research methods to analyze cultural dimensions encoded within AI models. 
+    **A limited number of AI models are globally deployed. Their biases (currently unknown) have been shifting all aspects of society.**
+- Neural Audio Instruments and Neural Acoustics:
+   **It is important to show good practices in using ML and AI in artistic contexts, addressing the current uprisings against AI in artistic communities**
+- *Anything but text!* 
+    **Current AI development is overtly focused on text-to-X models, yet there is more to being a human than text.**
+
+---
+
+# Major Research Achievement - Bridging AI Technology and Engineering Research with Humanities and Social Sciences
 
 ---
 
 # Research Community Building
 
+- Local community building
+  - Culture Code event in February
+  - Future plans for events with Universium etc.
 - National research community building for international impact: WASP-HS cluster and the VR Research Environment in SSH
 - Leading musical AI and AI arts research fields internationally
 
