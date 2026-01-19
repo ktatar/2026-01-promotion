@@ -26,7 +26,8 @@ paginate: true
 
 ### Creative Coding
 
-https://www.youtube.com/watch?v=rfq82eKE-34&t=1945s
+<video controls src="https://www.youtube.com/watch?v=rfq82eKE-34&t=1945s" width="400"></video>
+
 
 ---
 
