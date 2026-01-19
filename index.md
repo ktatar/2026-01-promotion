@@ -78,10 +78,10 @@ paginate: true
 
 - Human-AI interactions in artistic contexts
   - How to utilize vast AI search spaces in content generation (ie sound, music, image etc.) (C14)
-  - Focusing on Process rather than Gestalt in AI (C18)
+  - Focusing on process of AI technology development rather than AI generated products (J8, C18)
   - Applying research through design processes to AI approaches (C18)
 - Interdisciplinary research methods
-  - Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI
+  - Bridging technology facts to societal matters ()
 - AI Ethics towards informing future legislations
 
 ---
