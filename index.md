@@ -76,13 +76,23 @@ paginate: true
 
 ---
 
-# Research Achivements so far
+# Research Achivement: Bridging STEM with Social Sciences, Humanities and Arts
+
+---
+
+# Research Achivements so far (STEM)
 
 - Human-AI interactions in artistic contexts
   - How to utilize vast AI search spaces in content generation (ie sound, music, image etc.) (C14)
   - Focusing on process of AI technology development rather than AI generated products (J8, C18)
   - Applying research through design processes to AI approaches (C18)
-- Creativity and Games 
+- Creativity and Games
+
+
+---
+
+# Research Achivements so far (SSH)
+
 - Interdisciplinary research methods
   - Bridging technology facts to societal matters (J8, J7, C16)
 - AI Ethics towards informing future legislations (J7, C16)
