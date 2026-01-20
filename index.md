@@ -119,11 +119,13 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 # Research Vision
 
-  - Computational autonomy informed by theory of the application domain
+  - Computational autonomy informed by theory of the application domain (in our case music and arts)
   - Societal implications of ML and AI as one of the core aspects of technology making processes
   - Artistic curiosity as a driving force for research and innovation
 
 ---
+
+# Research Questions for future directions
 
 - How do we inform AI technology development with considerations in societal implications?
 - What are new artistic affordances of novel AI architectures? 
