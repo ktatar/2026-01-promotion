@@ -173,6 +173,8 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 <!-- _class: columns -->
 
+<div>
+
 ## Current Funding
 
 **WASPHS-3:** WASP-HS Research Cluster Call. AI Futures of Culture and Memory. Anna Foka (PI,
@@ -180,10 +182,13 @@ Uppsala University), Andre Holzapfel (co-PI, KTH Royal Institute of Technology),
 **VR-1:** Vetenskapsrådet, Research environment grant - humanities and social sciences. VOICE. AI-generated voices. Legal and societal perspectives. Katja de Vries (PI, Uppsala University), Andre Holzapfel (co-PI, KTH Royal Institute of Technology), Kıvanç Tatar (co-PI, Chalmers University of Technology and University of Gothenburg), Kalle Berglund (co-PI, Uppsala University). 18 million SEK.
 **WASPHS-1:** Interactive AI - Ethics and Aesthetics of Human-Machine Interaction in Art, Music, and Games; kindly offered to Kıvanç Tatar (PI) as a starting package for Assistant Professorship position. 12 million SEK
 
+</div>
+<div>
+
 ## Submitted Projects Awaiting Decision
 
 **ERC-1** European Research Council, Starting Grant. Multimodal Generative Modelling for Interpretable Movement-to-Audio Synthesis: MODA. Kıvanç Tatar (PI, Chalmers University of Technology and University of Gothenburg). 1.5 million Euro ≈16.4 million SEK.
-
+</div>
 ---
 
 # Thank you!
