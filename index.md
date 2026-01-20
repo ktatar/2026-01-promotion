@@ -76,10 +76,13 @@ paginate: true
 
 ---
 
+# Research Achivements so far
+
 - Human-AI interactions in artistic contexts
   - How to utilize vast AI search spaces in content generation (ie sound, music, image etc.) (C14)
   - Focusing on process of AI technology development rather than AI generated products (J8, C18)
   - Applying research through design processes to AI approaches (C18)
+- Creativity and Games 
 - Interdisciplinary research methods
   - Bridging technology facts to societal matters (J8, J7, C16)
 - AI Ethics towards informing future legislations (J7, C16)
@@ -93,10 +96,11 @@ paginate: true
 AICompArts : AI in Computational Arts, Music, and Games
 
 <!-- - National recognition of the research group -->
-- Strong connection to research and teaching strategies of Chalmers (TRA385)
-- Leading international research domain of Musical AI and AI arts
-- AI innovation with societal considerations at the center
 - Bridging STEM with Humanities and Arts
+
+- Strong connection to research and teaching strategies of Chalmers (TRA385)
+- Leading national and international research domain of Musical AI and AI arts
+- AI innovation with societal considerations at the center
 
 ---
 
