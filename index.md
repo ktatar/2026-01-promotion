@@ -174,67 +174,35 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 # References
 
-J13: Cotton, K., de Vries K., Holzapfel A., Berglund K., Tatar, K.. Revising MIR Research
-Practices for Singing Data Collection. Submitted to AI and Society, Springer Nature
-Press.
+J13: Cotton, K., de Vries K., Holzapfel A., Berglund K., Tatar, K.. Revising MIR Research Practices for Singing Data Collection. Submitted to AI and Society, Springer Nature Press.
 
-J12: Liu X., Cotton K., Tatar, K. Revisiting a Decade of Computational Game Creativity.
-Submitted to International Journal on Human Computer Interaction, Taylor and Francis.
+J12: Liu X., Cotton K., Tatar, K. Revisiting a Decade of Computational Game Creativity. Submitted to International Journal on Human Computer Interaction, Taylor and Francis.
 
-J11: *Fr¨ohlich M. M., Cotton K., Tatar, K. Artificial Intelligence: Perspectives on a Caesura
-in Art, its Creation and Consumption. Submitted to Leonardo, MIT Press.
+J11: *Fr¨ohlich M. M., Cotton K., Tatar, K. Artificial Intelligence: Perspectives on a Caesura in Art, its Creation and Consumption. Submitted to Leonardo, MIT Press.
 
-J10: Madaghiele V., Lund L., Holzer D., Kelkar T., Tatar, K., and Holzapfel A. Expand-
-ing the machine: notating generative synthesis with a state-based representation and an
-interactive timbre space. Submitted to and passed first round of revisions at Organised
-Sound, Cambridge Press.
+J10: Madaghiele V., Lund L., Holzer D., Kelkar T., Tatar, K., and Holzapfel A. Expanding the machine: notating generative synthesis with a state-based representation and an interactive timbre space. Submitted to and passed first round of revisions at Organised Sound, Cambridge Press.
 
-J9: Zappi, V., Tatar, K. (2025)Neural Audio Instruments: Epistemological and Phenomeno-
-logical Perspectives on Musical Embodiment of Deep Learning. Frontiers in Computer
-Science, 7. https://doi.org/10.3389/fcomp.2025.1575168
+J9: Zappi, V., Tatar, K. (2025)Neural Audio Instruments: Epistemological and Phenomenological Perspectives on Musical Embodiment of Deep Learning. Frontiers in Computer Science, 7. https://doi.org/10.3389/fcomp.2025.1575168
 
-J8: Cotton, K., Kaila, A.K.,J¨a¨askel¨ainen, P., Holzapel, A., Tatar, K. (2025). Imploding
-between the Facts and Concerns of Musical-AI: A Multidisciplinary Method for Analysing
-Human-AI Musical Interaction. Humanities and Social Sciences Communications, 12(1),
-1–20. https://doi.org/10.1057/s41599-025-04533-4
+J8: Cotton, K., Kaila, A.K.,J¨a¨askel¨ainen, P., Holzapel, A., Tatar, K. (2025). Imploding between the Facts and Concerns of Musical-AI: A Multidisciplinary Method for Analysing Human-AI Musical Interaction. Humanities and Social Sciences Communications, 12(1), 1–20. https://doi.org/10.1057/s41599-025-04533-4
 
-J7: *Tatar, K., Ericson P., Cotton, K., N´u˜nez del Prado P. T., Batlle-Roca R., Cabrero-
-Daniel, B, Ljungblad S., Diapoulis G., Hussain J. A Shift In Artistic Practices through
-Artificial Intelligence. Scheduled for release in June 2024 at Leonardo Journal, MIT Press.
+J7: *Tatar, K., Ericson P., Cotton, K., N´u˜nez del Prado P. T., Batlle-Roca R., Cabrero-Daniel, B, Ljungblad S., Diapoulis G., Hussain J. A Shift In Artistic Practices through Artificial Intelligence. Scheduled for release in June 2024 at Leonardo Journal, MIT Press.
 
-J6: Strauss, L., Tatar, K., Nuro, S. (2021). Iterative Design Processes and Soma-based
-Practices in instance. Organised Sound, Special Issue on ”Collective and Networked
-Sound Practices.”. Cambridge Press. https://doi.org/10.1017/S1355771821000479
+J6: Strauss, L., Tatar, K., Nuro, S. (2021). Iterative Design Processes and Soma-based Practices in instance. Organised Sound, Special Issue on ”Collective and Networked Sound Practices.”. Cambridge Press. https://doi.org/10.1017/S1355771821000479
 
-J5: Tatar, K., Bisig, D., & Pasquier, P. Latent Timbre Synthesis: Audio-based variational
-auto-encoders for music composition and sound design applications. The Special Issue of
-Neural Computing and Applications: “Networks in Art, Sound and Design.” Springer.
-https://doi.org/10.1007/s00521-020-05424-2
+J5: Tatar, K., Bisig, D., & Pasquier, P. Latent Timbre Synthesis: Audio-based variational auto-encoders for music composition and sound design applications. The Special Issue of Neural Computing and Applications: “Networks in Art, Sound and Design.” Springer. https://doi.org/10.1007/s00521-020-05424-2
 
-C19: Chen. J., Tatar, K., Zappi, V. A Deep Learning Framework for Musical Acoustics
-Simulations. In proceedings of AI Music Creativity 2024. https://aimc2024.pubpub.
-org/pub/5cl1cvmy/release/1
+C19: Chen. J., Tatar, K., Zappi, V. A Deep Learning Framework for Musical Acoustics Simulations. In proceedings of AI Music Creativity 2024. https://aimc2024.pubpub.org/pub/5cl1cvmy/release/1
 
-C18: Cotton, K., Tatar K.. Sounding out extra-normal AI voice: Non-normative musical
-engagements with normative AI voice and speech technologies. In proceedings of AI
-Music Creativity 2024. https://aimc2024.pubpub.org/pub/extranormal-aivoice/
-release/1
+C18: Cotton, K., Tatar K.. Sounding out extra-normal AI voice: Non-normative musical engagements with normative AI voice and speech technologies. In proceedings of AI Music Creativity 2024. https://aimc2024.pubpub.org/pub/extranormal-aivoice/release/1
 
-C17: Caravati, M., Tatar K.. Interfacing ErgoJr with Creative Coding Platforms. In pro-
-ceedings of the 9th International ACM Conference on Movement and Computing.https:
-//doi.org/10.1145/3658852.3659082
+C17: Caravati, M., Tatar K.. Interfacing ErgoJr with Creative Coding Platforms. In proceedings of the 9th International ACM Conference on Movement and Computing. https://doi.org/10.1145/3658852.3659082
 
-C16: Cotton, K., de Vries, Katja, and Tatar, K.. Singing for the Missing: Bringing the
-Body Back to AI Voice and Speech Technologies. In proceedings of the 9th International
-ACM Conference on Movement and Computing. https://doi.org/10.1145/3658852.
-3659065
+C16: Cotton, K., de Vries, Katja, and Tatar, K.. Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies. In proceedings of the 9th International ACM Conference on Movement and Computing. https://doi.org/10.1145/3658852.3659065
 
-C15: Cotton, K.,Tatar K., Caring Trouble and Musical AI: Considerations towards a Feminist
-Musical AI. In Proceedings of AI Music Creativity Conference 2023. Received the highest
-ranking (5/5) from all three reviewers. https://aimc2023.pubpub.org/pub/zwjy371l
+C15: Cotton, K.,Tatar K., Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI. In  Proceedings of AI Music Creativity Conference 2023. Received the highest ranking (5/5) from all three reviewers.  https://aimc2023.pubpub.org/pub/zwjy371l
 
-C14: Tatar, K., Cotton, K., Bisig, D. (2023). Sound Design Strategies for Latent Audio Space
-Explorations Using Deep Learning Architectures. In Proceedings of Sound and Music
+C14: Tatar, K., Cotton, K., Bisig, D. (2023). Sound Design Strategies for Latent Audio Space Explorations Using Deep Learning Architectures. In Proceedings of Sound and Music
 Computing 2023.
 
 C11: Diapoulis G., Zannos I., Tatar, K., Dahlstedt P. (2022). Bottom-up live coding: Analysis
