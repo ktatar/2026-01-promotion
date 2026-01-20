@@ -170,12 +170,22 @@ AICompArts : AI in Computational Arts, Music, and Games
 - Leading musical AI and AI arts research fields internationally
 
 ---
+
+# Current and Submitted Funding
+
+- 
+
+---
+
+# Thank you!
+
+---
 <!-- _class: my_bib -->
 
 **References**
 **J13:** Cotton, K., de Vries K., Holzapfel A., Berglund K., Tatar, K.. Revising MIR Research Practices for Singing Data Collection. Submitted to AI and Society, Springer Nature Press.
 **J12:** Liu X., Cotton K., Tatar, K. Revisiting a Decade of Computational Game Creativity. Submitted to International Journal on Human Computer Interaction, Taylor and Francis.
-**J11:** *Fr¨ohlich M. M., Cotton K., Tatar, K. Artificial Intelligence: Perspectives on a Caesura in Art, its Creation and Consumption. Submitted to Leonardo, MIT Press.
+**J11:** *Fröhlich M. M., Cotton K., Tatar, K. Artificial Intelligence: Perspectives on a Caesura in Art, its Creation and Consumption. Submitted to Leonardo, MIT Press.
 **J10:** Madaghiele V., Lund L., Holzer D., Kelkar T., Tatar, K., and Holzapfel A. Expanding the machine: notating generative synthesis with a state-based representation and an interactive timbre space. Submitted to and passed first round of revisions at Organised Sound, Cambridge Press.
 **J9:** Zappi, V., Tatar, K. (2025) Neural Audio Instruments: Epistemological and Phenomenological Perspectives on Musical Embodiment of Deep Learning. Frontiers in Computer Science, 7. https://doi.org/10.3389/fcomp.2025.1575168
 **J8:** Cotton, K., Kaila, A.K., Jääskeläinen, P., Holzapel, A., Tatar, K. (2025). Imploding between the Facts and Concerns of Musical-AI: A Multidisciplinary Method for Analysing Human-AI Musical Interaction. Humanities and Social Sciences Communications, 12(1), 1–20. https://doi.org/10.1057/s41599-025-04533-4
@@ -193,5 +203,3 @@ AICompArts : AI in Computational Arts, Music, and Games
 **C9:** Boerson R., Liu-Rosenbaum A., Tatar K., Pasquier P. (2020). Chatterbox: an interactive
 system of gibberish agents. Accepted to the International Symposium of Electronic Arts
 (ISEA 2020)
-
----
