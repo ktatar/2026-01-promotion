@@ -20,7 +20,7 @@ paginate: true
 
 ---
 
-# Arts and Music in the Era of Artificial Intelligence
+# Background: Arts and Music in the Era of Artificial Intelligence
 
 ---
 <!-- _class: columns -->
