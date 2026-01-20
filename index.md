@@ -100,7 +100,7 @@ paginate: true
 
 - Interdisciplinary research methods
   - Bridging technology facts to societal matters (J8, J7, C16, C15)
-- AI Ethics towards informing future legislations (J13, J7, C16, J11)
+- AI Ethics towards informing future legislations (J13, J7, C16, C15, J11)
   - Voice AI and future legislations (J13, C16)
   - Future of artistic practices in the era of AI (J7, J11)
 
