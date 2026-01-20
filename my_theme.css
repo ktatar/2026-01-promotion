@@ -96,6 +96,13 @@ section.columns {
     gap: 1rem;
   }
 
+section.my_bib {
+  p {
+  font-size: 8pt;
+}
+
+}
+
 section.no_border{
   td, th {
   font-size: 18px; /* Set the font size to 16 pixels */

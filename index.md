@@ -170,7 +170,7 @@ AICompArts : AI in Computational Arts, Music, and Games
 - Leading musical AI and AI arts research fields internationally
 
 ---
-<!-- _class: biblio -->
+<!-- _class: my_bib -->
 
 # References
 
