@@ -91,8 +91,6 @@ paginate: true
     - Musical Acoustics utilizing Deep Learning (C19)
 - Creativity and Games
   - Laying the foundations of AI in Games with specific focus on Co-creativity (J12)
-  - 
-
 
 ---
 
@@ -130,7 +128,7 @@ AICompArts : AI in Computational Arts, Music, and Games
 - How do we inform AI technology development with considerations in societal implications?
 - What are new artistic affordances of novel AI architectures? 
 - How can we bring back to "the body" to digital AI architectures?
-- 
+
 ---
 
 # Specifically, what are future directions? 
