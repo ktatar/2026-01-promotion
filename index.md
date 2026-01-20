@@ -173,7 +173,7 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 # Thank you!
 
-<small>
+
 - **J13:** Cotton, K., de Vries K., Holzapfel A., Berglund K., Tatar, K.. Revising MIR Research
 Practices for Singing Data Collection. Submitted to AI and Society, Springer Nature
 Press.
@@ -188,48 +188,16 @@ Sound, Cambridge Press.
 J9: Zappi, V., Tatar, K. (2025)Neural Audio Instruments: Epistemological and Phenomeno-
 logical Perspectives on Musical Embodiment of Deep Learning. Frontiers in Computer
 Science, 7. https://doi.org/10.3389/fcomp.2025.1575168
-In this exciting opportunity, I joined assistant professor Victor Zappi, who is an expert
-in digital musical instruments, to propose a new term called neural audio instruments.
-Different than applications where the AI is a partner in music performance or production,
-neural audio instruments are systems where the audio generation with deep learning or
-deep generative modelling is an inconspicuous element of a digital musical instrument. I
-contributed to all aspects of this paper with my expertise and knowledge in musical AI,
-and I believe that this paper will guide the next five years of research in integrating deep
-learning to musical instruments.
+
 J8: Cotton, K., Kaila, A.K.,J¨a¨askel¨ainen, P., Holzapel, A., Tatar, K. (2025). Imploding
 between the Facts and Concerns of Musical-AI: A Multidisciplinary Method for Analysing
 Human-AI Musical Interaction. Humanities and Social Sciences Communications, 12(1),
 1–20. https://doi.org/10.1057/s41599-025-04533-4
-This paper is one of the first papers of my Phd student, Kelsey Cotton’s doctoral
-studies. Initially, the paper was rejected at CHI 2023, and we incorporated reviewers’
-feedback and submitted this paper as a journal paper. The paper is now, after one
-and a half year of processing, published. I am the leading senior researcher in this
-paper since I have been the main supervisor of Kelsey Cotton’s doctoral studies. PhD
-students Anna-Kaisa Kaila, and Petra J¨a¨askel¨ainen, and Assoc. Prof. Andre Holzapel
-are our collaborators from KTH, and they are invited with my recommendations to this
-publication to bring in their novel expertise to this publication. Petra J¨a¨askel¨ainen is an
-expert in sustainability and societal impact of AI. Anna-Kaisa Kaila is an expert of AI
-implications in Music Industry. Andre Holzapfel is an expert in Creative AI and Ethno-
-musicology with knowledge in Perfomance Practice analysis. Specifically, I contributed
-in Conceptualization, Data Curation (selection of artworks to be analyzed), Funding
-Acquisition (since Kelsey Cotton’s PhD is funded by WASPHS-1 in my CV where I am
-the PI), Investigation, Methodology, Project Administration, Supervision, Validation,
-Writing — Original Draft, and Writing — Review and Editing.
+
 J7: *Tatar, K., Ericson P., Cotton, K., N´u˜nez del Prado P. T., Batlle-Roca R., Cabrero-
 Daniel, B, Ljungblad S., Diapoulis G., Hussain J. A Shift In Artistic Practices through
 Artificial Intelligence. Scheduled for release in June 2024 at Leonardo Journal, MIT Press.
-I shared the first authorship in this publication with Petter Ericson and Kelsey Cotton
-with equal contributions. This publication is a result of a Community Reference Meeting
-8
-(CRM) organized by WASP-HS. WASP-HS initially invited me to lead and run this CRM
-event as a workshop in Fall 2022, with help from the Post-doctoral Fellow Petter Ericson
-from Umea University. I invited my doctoral student Kelsey Cotton to join to expand
-Kelsey’s research network in Sweden. After the event, I invited all workshop participants
-to collaborate on this publication, which is now published. Specifically, I contributed
-to Conceptualization, Data Curation, Formal Analysis, Funding Acquisition (since I was
-invited due to my PI role in WASPHS-1 grant), Methodology, Project Administration,
-Resources (workshop was held in person and online), Supervision (Kelsey Cotton joined
-to expand network), Writing — Original Draft, and Writing — Reviewing and Editing.
+
 J6: Strauss, L., Tatar, K., Nuro, S. (2021). Iterative Design Processes and Soma-based
 Practices in instance. Organised Sound, Special Issue on ”Collective and Networked
 Sound Practices.”. Cambridge Press. https://doi.org/10.1017/S1355771821000479
@@ -237,6 +205,7 @@ J5: Tatar, K., Bisig, D., & Pasquier, P. Latent Timbre Synthesis: Audio-based va
 auto-encoders for music composition and sound design applications. The Special Issue of
 Neural Computing and Applications: “Networks in Art, Sound and Design.” Springer.
 https://doi.org/10.1007/s00521-020-05424-2
+
 C19: Chen. J., Tatar, K., Zappi, V. A Deep Learning Framework for Musical Acoustics
 Simulations. In proceedings of AI Music Creativity 2024. https://aimc2024.pubpub.
 org/pub/5cl1cvmy/release/1
@@ -244,17 +213,7 @@ C18: Cotton, K., Tatar K.. Sounding out extra-normal AI voice: Non-normative mus
 engagements with normative AI voice and speech technologies. In proceedings of AI
 Music Creativity 2024. https://aimc2024.pubpub.org/pub/extranormal-aivoice/
 release/1
-In this paper, we investigated the rapid advancement of AI voice and speech technolo-
-gies while highlighting the invisibilisation of the human Body—the physical source of
-vocal sound—within datasets, models, and applications. Drawing from interdisciplinary
-perspectives including sound studies, feminist STS, and musical practice, we explored
-the ethical, legal, and artistic consequences of this disassociation of voice and its body.
-Through examples from experimental and popular music, legal cases, and artistic ac-
-tivism, we proposed recommendations for practitioners and researchers to “bring the
-Body back” into AI voice technologies. I contributed to this paper with my expertise
-in sound studies and AI for sound and music computing, specifically in the CRediT cat-
-egories of conceptualization, funding acquisition, methodology, supervision (of the first
-author Kelsey Cotton’s doctoral studies), writing - review and editing.
+
 C17: Caravati, M., Tatar K.. Interfacing ErgoJr with Creative Coding Platforms. In pro-
 ceedings of the 9th International ACM Conference on Movement and Computing.https:
 //doi.org/10.1145/3658852.3659082
@@ -266,32 +225,21 @@ In this work, we laid out the
 C15: Cotton, K.,Tatar K., Caring Trouble and Musical AI: Considerations towards a Feminist
 Musical AI. In Proceedings of AI Music Creativity Conference 2023. Received the highest
 ranking (5/5) from all three reviewers. https://aimc2023.pubpub.org/pub/zwjy371l
-9
+
 C14: Tatar, K., Cotton, K., Bisig, D. (2023). Sound Design Strategies for Latent Audio Space
 Explorations Using Deep Learning Architectures. In Proceedings of Sound and Music
 Computing 2023.
-While many deep generative models for audio signals has been proposed in the literature,
-it is still not clear how to interact with their latent space in musically meaningful way. In
-this paper, we took a first step into investigating how to traverse latent audio spaces for
-sound applications. This work has later inspired me to write a VR grant for the Natural
-Science and Engineering call in 2025 at the intersection of topological data science, deep
-generative modelling, and audio signal processing with co-PIs Ashkan Panahi (DSAI,
-Chalmers) and Kathl´en Kohn (Mathematics, KTH). The application is still in review.
-The code and the conceptualization of this work was done during my artist residency at
-ZKM Karlsruhe Germany. I had major contributions to all aspects of this work. I invited
-my PhD student Kelsey Cotton to write the background section on deep generative models
-for audio applications, so that the student would go through the state-of-the-art and
-summarize the area, and gain an experience in publishing at the intersection of AI and
-music. Daniel Bisig contributed to the conceptualization of the AI architecture initially,
-and contributed to the writing - reviewing and editing of the paper.
+
 C11: Diapoulis G., Zannos I., Tatar, K., Dahlstedt P. (2022). Bottom-up live coding: Analysis
 of continuous interactions towards predicting programming behaviours. In Proceedings
 of New Interfaces for Music Expression Conference 2022.
+
 C10: Bisig D., Tatar, K. (2021). Raw Music from Free Movements: Early Experiments in
 Using Machine Learning to Create Raw Audio from Dance Movements. Accepted to AI
 Music Creativity Conference 2021 (AIMC 2021).
+
 C9: Boerson R., Liu-Rosenbaum A., Tatar K., Pasquier P. (2020). Chatterbox: an interactive
 system of gibberish agents. Accepted to the International Symposium of Electronic Arts
 (ISEA 2020)
 
-</small>
+</div>
