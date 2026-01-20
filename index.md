@@ -83,10 +83,15 @@ paginate: true
 # Research Achivements so far (STEM)
 
 - Human-AI interactions in artistic contexts
-  - How to utilize vast AI search spaces in content generation (ie sound, music, image etc.) (C14)
-  - Focusing on process of AI technology development rather than AI generated products (J8, C18)
-  - Applying research through design processes to AI approaches (C18)
+  - How to utilize vast AI search spaces in content generation (ie sound, music, image etc.) (J10, J9, C14)
+  - Focused on process of AI technology development rather than AI generated products (J8, C18)
+  - Applied research through design processes to AI approaches (C18)
+  - Founded directions in future Musical AI research (J9)
+    - Neural Audio Instruments (J9)
+    - Musical Acoustics utilizing Deep Learning (C19)
 - Creativity and Games
+  - Laying the foundations of AI in Games with specific focus on Co-creativity (J12)
+  - 
 
 
 ---
@@ -94,10 +99,10 @@ paginate: true
 # Research Achivements so far (SSH)
 
 - Interdisciplinary research methods
-  - Bridging technology facts to societal matters (J8, J7, C16)
-- AI Ethics towards informing future legislations (J7, C16)
-  - Voice AI and future legislations (C16)
-  - Future of artistic practices in the era of AI (J7)
+  - Bridging technology facts to societal matters (J8, J7, C16, C15)
+- AI Ethics towards informing future legislations (J13, J7, C16, J11)
+  - Voice AI and future legislations (J13, C16)
+  - Future of artistic practices in the era of AI (J7, J11)
 
 ---
 
