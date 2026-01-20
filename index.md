@@ -170,9 +170,9 @@ AICompArts : AI in Computational Arts, Music, and Games
 - Leading musical AI and AI arts research fields internationally
 
 ---
+<!-- _class: biblio -->
 
-# Thank you!
-
+# References
 
 J13: Cotton, K., de Vries K., Holzapfel A., Berglund K., Tatar, K.. Revising MIR Research
 Practices for Singing Data Collection. Submitted to AI and Society, Springer Nature
@@ -249,4 +249,4 @@ C9: Boerson R., Liu-Rosenbaum A., Tatar K., Pasquier P. (2020). Chatterbox: an i
 system of gibberish agents. Accepted to the International Symposium of Electronic Arts
 (ISEA 2020)
 
-</div>
+---
