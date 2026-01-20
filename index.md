@@ -174,17 +174,21 @@ AICompArts : AI in Computational Arts, Music, and Games
 # Thank you!
 
 
-- **J13:** Cotton, K., de Vries K., Holzapfel A., Berglund K., Tatar, K.. Revising MIR Research
+J13: Cotton, K., de Vries K., Holzapfel A., Berglund K., Tatar, K.. Revising MIR Research
 Practices for Singing Data Collection. Submitted to AI and Society, Springer Nature
 Press.
-- **J12:** Liu X., Cotton K., Tatar, K. Revisiting a Decade of Computational Game Creativity.
+
+J12: Liu X., Cotton K., Tatar, K. Revisiting a Decade of Computational Game Creativity.
 Submitted to International Journal on Human Computer Interaction, Taylor and Francis.
+
 J11: *Fr¨ohlich M. M., Cotton K., Tatar, K. Artificial Intelligence: Perspectives on a Caesura
 in Art, its Creation and Consumption. Submitted to Leonardo, MIT Press.
+
 J10: Madaghiele V., Lund L., Holzer D., Kelkar T., Tatar, K., and Holzapfel A. Expand-
 ing the machine: notating generative synthesis with a state-based representation and an
 interactive timbre space. Submitted to and passed first round of revisions at Organised
 Sound, Cambridge Press.
+
 J9: Zappi, V., Tatar, K. (2025)Neural Audio Instruments: Epistemological and Phenomeno-
 logical Perspectives on Musical Embodiment of Deep Learning. Frontiers in Computer
 Science, 7. https://doi.org/10.3389/fcomp.2025.1575168
@@ -201,6 +205,7 @@ Artificial Intelligence. Scheduled for release in June 2024 at Leonardo Journal,
 J6: Strauss, L., Tatar, K., Nuro, S. (2021). Iterative Design Processes and Soma-based
 Practices in instance. Organised Sound, Special Issue on ”Collective and Networked
 Sound Practices.”. Cambridge Press. https://doi.org/10.1017/S1355771821000479
+
 J5: Tatar, K., Bisig, D., & Pasquier, P. Latent Timbre Synthesis: Audio-based variational
 auto-encoders for music composition and sound design applications. The Special Issue of
 Neural Computing and Applications: “Networks in Art, Sound and Design.” Springer.
@@ -209,6 +214,7 @@ https://doi.org/10.1007/s00521-020-05424-2
 C19: Chen. J., Tatar, K., Zappi, V. A Deep Learning Framework for Musical Acoustics
 Simulations. In proceedings of AI Music Creativity 2024. https://aimc2024.pubpub.
 org/pub/5cl1cvmy/release/1
+
 C18: Cotton, K., Tatar K.. Sounding out extra-normal AI voice: Non-normative musical
 engagements with normative AI voice and speech technologies. In proceedings of AI
 Music Creativity 2024. https://aimc2024.pubpub.org/pub/extranormal-aivoice/
@@ -217,11 +223,12 @@ release/1
 C17: Caravati, M., Tatar K.. Interfacing ErgoJr with Creative Coding Platforms. In pro-
 ceedings of the 9th International ACM Conference on Movement and Computing.https:
 //doi.org/10.1145/3658852.3659082
+
 C16: Cotton, K., de Vries, Katja, and Tatar, K.. Singing for the Missing: Bringing the
 Body Back to AI Voice and Speech Technologies. In proceedings of the 9th International
 ACM Conference on Movement and Computing. https://doi.org/10.1145/3658852.
 3659065
-In this work, we laid out the
+
 C15: Cotton, K.,Tatar K., Caring Trouble and Musical AI: Considerations towards a Feminist
 Musical AI. In Proceedings of AI Music Creativity Conference 2023. Received the highest
 ranking (5/5) from all three reviewers. https://aimc2023.pubpub.org/pub/zwjy371l
