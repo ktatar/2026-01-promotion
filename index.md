@@ -12,11 +12,20 @@ paginate: true
 
 ---
 
+![bg right width:500](qr-code.png)
+
+
 # Overview
 
-- What you conduct research on and the important results you have achieved so far.
-- Which questions you consider important to address in the future and why it is important to answer these questions.
-- The target group for the presentation is the Faculty Appointment Committee and the lecture should be given in a popular science style that is accessible to a broad academic audience.
+- Background
+  - AI in Creative Domains
+  - Why does it matter?
+- Research Achivement: Bridging STEM with Social Sciences, Humanities and Arts
+- Foundation of the Research Group
+- Future Research directions
+
+<small> These slides are live at: 
+https://ktatar.github.io/2026-01-promotion/ </small>
 
 ---
 
@@ -124,14 +133,13 @@ paginate: true
 
 AICompArts : AI in Computational Arts, Music, and Games
 
-<!-- - National recognition of the research group -->
 - Bridging STEM with Humanities and Arts
-
 - Strong connection to research and teaching strategies of Chalmers (TRA385)
 - Leading national and international research domain of Musical AI and AI arts
 - AI innovation with societal considerations at the center
 
 ---
+![bg right width:450](aicomparts.png)
 
 # Research Vision
 
@@ -151,13 +159,14 @@ AICompArts : AI in Computational Arts, Music, and Games
 
 # Specifically, what are future directions? 
 
-- Proposing mixed research methods to analyze cultural dimensions encoded within AI models
+- Proposing mixed research methods to **analyze cultural dimensions encoded within AI** models
   - Quantitative metrics to analyze entanglements between culturally relevant dimensions
   - Qualitative methods to critically engage with the findings of quantitative metrics
-- Laying the foundations for future engineering directions in Musical AI:
+- Leading the future **AI technology in creative domains**:
   - Neural Audio Instruments: a new category of musical instruments
   - Neural Acoustics: towards real-time acoustics simulations for sound synthesis
-- *Anything but text!*
+  - Co-creation of video games using AI generated code
+- **Anything but text!**
   - Utilizing movement computing in human-AI interaction
 
 ---
