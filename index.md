@@ -51,11 +51,20 @@ paginate: true
 - Agency and Interaction
 
 ---
+<!-- _class: columns -->
+
+<div>
 
 ### Arts and Music in the Era of Artificial Intelligence
 
 - Highly autonomous tools
 - Increasingly complex interaction
+</div>
+
+<div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KgQp15y3QdY?si=UXYAVMQUBUkJW0CL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 --- 
 
@@ -80,28 +89,35 @@ paginate: true
 
 ---
 
-# Research Achivements so far (STEM)
+## Research Achivements so far (STEM)
 
-- Human-AI interactions in artistic contexts
+### Human-AI interactions in artistic contexts
+
   - How to utilize vast AI search spaces in content generation (ie sound, music, image etc.) (J10, J9, C14)
   - Focused on process of AI technology development rather than AI generated products (J8, C18)
   - Applied research through design processes to AI approaches (C18)
-  - Founded directions in future Musical AI research (J9)
-    - Neural Audio Instruments (J9)
-    - Musical Acoustics utilizing Deep Learning (C19)
-- Creativity and Games
-  - Laying the foundations of AI in Games with specific focus on Co-creativity (J12)
+
+---
+## Research Achivements so far (STEM)
+
+### Founded new directions in future Musical AI research
+
+- Neural Audio Instruments (J9)
+- Musical Acoustics utilizing Deep Learning (C19)
+- Creativity and Games (J12)
 
 ---
 
-# Research Achivements so far (SSH)
+## Research Achivements so far (SSH)
+
+![bg right width:650](caring-trouble.png)
 
 - Interdisciplinary research methods
   - Bridging technology facts to societal matters (J8, J7, C16, C15)
 - AI Ethics towards informing future legislations (J13, J7, C16, C15, J11)
   - Voice AI and future legislations (J13, C16)
   - Future of artistic practices in the era of AI (J7, J11)
-
+  
 ---
 
 # Major Achievement: The Foundation of the Research Group
@@ -153,13 +169,15 @@ AICompArts : AI in Computational Arts, Music, and Games
 - Neural Audio Instruments and Neural Acoustics:
    **It is important to show good practices in using ML and AI in artistic contexts, addressing the current uprisings against AI in artistic communities**
 - *Anything but text!* 
-    **Current AI development is overtly focused on text-to-X models, yet there is more to being a human than text.**
+    **Current AI development is overtly focused on text-to-X models, yet there is more to being a human than text. We have a body and we can move in 3D!**
 
 ---
 
 # Over-arching Goal - Bridging AI Technology and Engineering Research with Humanities and Social Sciences
 
 ---
+
+![bg right width:650](culture-code.png)
 
 ## Research Community Building
 
